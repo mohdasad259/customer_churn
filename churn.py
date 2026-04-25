@@ -7,7 +7,7 @@ import streamlit as st
 # ═══════════════════════════════════════════════
 # PAGE CONFIG
 # ═══════════════════════════════════════════════
-st.set_page_config(page_title="📡 Churn Predictor", layout="centered")
+st.set_page_config(page_title=" Churn Predictor", layout="centered")
 
 # ═══════════════════════════════════════════════
 # CSS
